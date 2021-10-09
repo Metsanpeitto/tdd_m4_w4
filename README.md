@@ -37,7 +37,6 @@ If you want a copy of this file go to the github repository and download it from
 
 [Live](https://github.com/Metsanpeitto/ ruby_oop-school-library_m4_w3/)
 
-
 ### Setup
 
 ```cmd
