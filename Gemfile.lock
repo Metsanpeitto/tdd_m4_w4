@@ -34,8 +34,5 @@ DEPENDENCIES
   pry (~> 0.13.1)
   rubocop (>= 1.0, < 2.0)
 
-RUBY VERSION
-   ruby 3.0.0p0
-
 BUNDLED WITH
    2.2.28
