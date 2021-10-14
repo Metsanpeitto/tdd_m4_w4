@@ -1,5 +1,5 @@
 require './main'
-
+# rubocop: disable all
 describe Solver do
   context 'Given arguments to test the methods' do
     solver = Solver.new
@@ -38,3 +38,4 @@ describe Solver do
     end
   end
 end
+# rubocop: enable all
