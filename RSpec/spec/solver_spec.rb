@@ -33,5 +33,8 @@ describe Solver do
     it 'test fizzbuzz passing the number 2' do
       expect(solver.fizzbuzz(2)).to(eq('2'))
     end
+    it 'test fizzbuzz passing the number 88' do
+      expect(solver.fizzbuzz(88)).to(eq('88'))
+    end
   end
 end
